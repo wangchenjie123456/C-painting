@@ -1,0 +1,14 @@
+C:\myproject\C#project\source\WindowsPainter-master\WindowsPainter-master\luxintao\luxintao\bin\Debug\luxintao.exe.config
+C:\myproject\C#project\source\WindowsPainter-master\WindowsPainter-master\luxintao\luxintao\bin\Debug\luxintao.exe
+C:\myproject\C#project\source\WindowsPainter-master\WindowsPainter-master\luxintao\luxintao\bin\Debug\luxintao.pdb
+C:\myproject\C#project\source\WindowsPainter-master\WindowsPainter-master\luxintao\luxintao\obj\x86\Debug\project.csproj.AssemblyReference.cache
+C:\myproject\C#project\source\WindowsPainter-master\WindowsPainter-master\luxintao\luxintao\obj\x86\Debug\luxintao.exe.config
+C:\myproject\C#project\source\WindowsPainter-master\WindowsPainter-master\luxintao\luxintao\obj\x86\Debug\luxintao.form1.resources
+C:\myproject\C#project\source\WindowsPainter-master\WindowsPainter-master\luxintao\luxintao\obj\x86\Debug\luxintao.SetGradient_Form.resources
+C:\myproject\C#project\source\WindowsPainter-master\WindowsPainter-master\luxintao\luxintao\obj\x86\Debug\luxintao.sethatch_form.resources
+C:\myproject\C#project\source\WindowsPainter-master\WindowsPainter-master\luxintao\luxintao\obj\x86\Debug\luxintao.setsize_form.resources
+C:\myproject\C#project\source\WindowsPainter-master\WindowsPainter-master\luxintao\luxintao\obj\x86\Debug\luxintao.Properties.Resources.resources
+C:\myproject\C#project\source\WindowsPainter-master\WindowsPainter-master\luxintao\luxintao\obj\x86\Debug\project.csproj.GenerateResource.cache
+C:\myproject\C#project\source\WindowsPainter-master\WindowsPainter-master\luxintao\luxintao\obj\x86\Debug\project.csproj.CoreCompileInputs.cache
+C:\myproject\C#project\source\WindowsPainter-master\WindowsPainter-master\luxintao\luxintao\obj\x86\Debug\luxintao.exe
+C:\myproject\C#project\source\WindowsPainter-master\WindowsPainter-master\luxintao\luxintao\obj\x86\Debug\luxintao.pdb
